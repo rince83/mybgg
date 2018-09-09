@@ -1,12 +1,13 @@
 {
     "project": {
-        "name": "mybgg"
+        "name": "mybgg",
+        "title": "Clemens' boardgames"
     },
     "boardgamegeek": {
         "user_name": "clemensp",
         "extra_params": {
             "own": 1,
-            "exclude_subtype": "boardgameexpansion"
+            "exclude_subtype": "boardgameexpansion"			
         }
     },
     "algolia": {
