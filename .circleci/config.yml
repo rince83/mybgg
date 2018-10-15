@@ -51,7 +51,7 @@ workflows:
               only:
                 - master
     jobs:
-      - merge-upstream
+      #- merge-upstream
       - update-algolia:
-          requires:
-            - merge-upstream
+      #    requires:
+      #      - merge-upstream
